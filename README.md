@@ -24,7 +24,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 **Express.js**
 
-    - Redis - A key-value store
+     Redis - A key-value store
     - JWT - JSON Web Token
     - Bycrypt - Password hashing
     - Passport.js - Authentication
