@@ -13,32 +13,38 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 ## Known issues
 
 ## Technologies used in this project (Tech Stack - MERN)
-**Next.js**
+**Next.js** - A React Framework [Next.js](https://nextjs.org/)
 
-    - Context API -React State Management Library
-    - Next.js Router
-    - React Hooks - useState, useEffect etc.
-    - Chakra UI - UI Framework for React
-    - Axios - HTTP Client
-    - Next-Auth - Authentication Library
+     Context API -React State Management Library
+     Next.js Router
+     React Hooks - useState, useEffect etc.
+     Chakra UI - UI Framework for React
+     Axios - HTTP Client
+     Next-Auth - Authentication Library
+     React Testing Library - Testing Framework for React
 
-**Express.js**
+**Express.js** - Server Side Framework
 
      Redis - A key-value store
-    - JWT - JSON Web Token
-    - Bycrypt - Password hashing
-    - Passport.js - Authentication
-    - Cors - Cross-Origin Resource Sharing
-    - Morgan.Js - Logging
-    - Body-parser - Parsing of request bodies
+     JWT - JSON Web Token
+     Bycrypt - Password hashing
+     Passport.js - Authentication
+     Cors - Cross-Origin Resource Sharing
+     Morgan.Js - Logging
+     Body-parser - Parsing of request bodies
 
+**MongoDB** - NoSQL Database
 
+     Mongoose - Object Modeling
+     Next-Auth - Adapter for Authentication
 
-**MongoDB**
-**Cloudinary**
-**Sendgrid**
+**Cloudinary** - Image Uploading Service
 
+     Storage - Cloudinary to store images and other files
 
+**Sendgrid** - Email Service
+
+**Cypress** - Testing Framework for React
 
 
 
