@@ -1,5 +1,28 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## creators-showcase
+
+## Problem
+
+## Solution
+
+## Work in progress
+
+## Features
+
+## Known issues
+
+## Technologies used in this project (Tech Stack - MERN)
+**Next.js**
+**Express.js**
+**MongoDB**
+**Cloudinary**
+**Sendgrid**
+
+
+
+
+
 ## Getting Started
 
 First, run the development server:
