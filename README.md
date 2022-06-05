@@ -14,7 +14,26 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Technologies used in this project (Tech Stack - MERN)
 **Next.js**
+
+    - Context API -React State Management Library
+    - Next.js Router
+    - React Hooks - useState, useEffect etc.
+    - Chakra UI - UI Framework for React
+    - Axios - HTTP Client
+    - Next-Auth - Authentication Library
+
 **Express.js**
+
+    - Redis - A key-value store
+    - JWT - JSON Web Token
+    - Bycrypt - Password hashing
+    - Passport.js - Authentication
+    - Cors - Cross-Origin Resource Sharing
+    - Morgan.Js - Logging
+    - Body-parser - Parsing of request bodies
+
+
+
 **MongoDB**
 **Cloudinary**
 **Sendgrid**
