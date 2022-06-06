@@ -45,10 +45,12 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
      Body-parser - Parsing of request bodies
 
+**PostgreSQL** - Database
+
+     Sequelize - ORM
+
 **MongoDB** - NoSQL Database
 
-     Mongoose - Object Modeling
-     
      Next-Auth - Adapter for Authentication
 
 **Cloudinary** - Image Uploading Service
