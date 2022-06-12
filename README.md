@@ -1,6 +1,7 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## creators-showcase
+The end product of this project will enable creators such as: Photographers, Videographers, Vloggers etc. to showcase their content on a platform filled with featured catered for their specific needs
 
 ## Problem
 
@@ -32,6 +33,8 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 **Express.js** - Server Side Framework
 
      Redis - A key-value store
+
+     OAuth 2.0 - 
 
      JWT - JSON Web Token
 

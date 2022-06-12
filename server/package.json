@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "rest api for creators-showcase",
   "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
   "author": "Teshane Crawford",
   "license": "MIT",
   "private": false,
