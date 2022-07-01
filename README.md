@@ -28,7 +28,7 @@ The end product of this project will enable creators such as: Photographers, Vid
 
      React Hooks - useState, useEffect etc.
 
-     StoryBook - UI Framework for React
+     Bulma & Sass - UI Framework & Preprocessor for CSS
 
      Axios - HTTP Client
 
@@ -54,15 +54,13 @@ The end product of this project will enable creators such as: Photographers, Vid
 
 **PostgreSQL** - Database
 
-     Sequelize - ORM
+     Prisma - ORM
 
 **Cloudinary** - Image Uploading Service
 
      Storage - Cloudinary to store images and other files
 
 **Sendgrid** - Email Service
-
-**Cypress** - Testing Framework for React
 
 **Vercel** - Deployment platform suitable for Next.Js
 
