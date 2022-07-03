@@ -9,10 +9,10 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@nextui-org/react": "^1.0.0-beta.9",
     "@sanity/cli": "^2.30.2",
     "@sanity/client": "^3.3.2",
     "axios": "^0.27.2",
-    "bulma": "^0.9.4",
     "global": "^4.4.0",
     "next": "12.2.0",
     "react": "18.2.0",

@@ -1,3 +1,4 @@
+import { NextUIProvider } from '@nextui-org/react';
 import '../scss/globals.scss'
 import type { AppProps } from 'next/app'
 import { useState, useEffect } from 'react'
@@ -12,9 +13,11 @@ const MyApp = ({ Component, pageProps }: AppProps) =>{
     return null
   }
   return (
-    <Layout>
-    <Component {...pageProps} isSSR={isSSR} />
-    </Layout>
+    <NextUIProvider>
+      <Layout>
+       <Component {...pageProps} isSSR={isSSR} />
+      </Layout>
+    </NextUIProvider>
   )
 }
 
